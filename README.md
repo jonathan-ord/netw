@@ -1,22 +1,10 @@
-# 🖧 Netw - Herramienta de Subnetting
+# Netw
 
 [![net.jpg](https://i.postimg.cc/7YzdsWHg/net.jpg)](https://postimg.cc/w76w3Fsv)
 
 ## 📜 Descripción
 
 Netw es una herramienta interactiva desarrollada en Node.js para realizar cálculos de subredes, validación de IPs, y conversiones entre formatos binarios y decimales. Esta aplicación facilita el manejo de redes y subredes de una manera sencilla y rápida.
-
-## 📑 Índice
-
-- [📥 Instalación](#instalación)
-- [🔧 Uso](#uso)
-  - [🔍 Máscara de Red](#máscara-de-red)
-  - [✔️ Verificación de IP](#verificación-de-ip)
-  - [🔢 Conversión Decimal a Binario](#conversión-decimal-a-binario)
-  - [🔄 Conversión Binario a Decimal](#conversión-binario-a-decimal)
-  - [📏 Prefijo a Máscara](#prefijo-a-máscara)
-  - [📊 Cálculo de Subredes](#cálculo-de-subredes)
-- [👤 Autor](#autor)
 
 ## 📥 Instalación
 
@@ -52,15 +40,13 @@ Para empezar a utilizar esta herramienta, sigue estos pasos:
 
 Al iniciar la aplicación, verás el siguiente menú interactivo:
 
-🖧 Netw
-
 1.  Máscara de Red
 2.  Verificar IP
 3.  Decimal a Binario
 4.  Binario a Decimal
 5.  Prefijo a Máscara
 6.  Subneteo
-    x. Salir
+7.  x - Salir
 
 #### 🔍 Máscara de Red
 
@@ -90,4 +76,4 @@ El resultado incluirá la tabla de subredes con la primera y última dirección 
 
 ## 👤 Autor
 
-- [**Jonathan Ordóñez**](https://github.com/jonathan-ord)
+[**Jonathan Ordóñez**](https://github.com/jonathan-ord)
